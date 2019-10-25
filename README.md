@@ -1,2 +1,2 @@
 # Unit-Commitment
-A GUI for Unit Commitment using Priority Lists Schemes
+A GUI for Unit Commitment using Dynamic Programming & Priority Lists Schemes
